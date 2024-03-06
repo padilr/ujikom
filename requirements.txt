@@ -1,0 +1,13 @@
+Spesifikasi Laptop Yang di Gunakan
+
+Operating System    = window 11 Pro 64-bit (10.0, Build 22631)
+Processor           = 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz (12 CPUs), ~2.70GHz
+RAM                 = 16GB
+Penyimpanan         = -+ 400GB
+
+
+Menggunakan Software
+
+Text Editro         = Visual Studio Code
+Web Server          = Apache
+Database Server     = Phpmyadmin
